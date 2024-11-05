@@ -1,5 +1,5 @@
 ## choose-node-version
-通过 fnm 搜索并选择 Node.js 版本
+>WIP: 通过 fnm 搜索并选择 Node.js 版本
 
 ## :coffee:
 
